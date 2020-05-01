@@ -62,3 +62,5 @@ For this i'm use SSL from Letsencrypt
 ![www.infecthingthe.world](https://github.com/0xfffb4dc0d3/nginx-ssllabs-tlsv1.3/blob/master/ssllabs.png)
 
 ## A+ with score 100/100/100/100 TLSv1.3 :tada:
+
+<a href='https://ko-fi.com/L3L41N1PZ' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
